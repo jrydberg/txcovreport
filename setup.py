@@ -21,7 +21,7 @@ setup(name='covreport',
       author='Johan Rydberg',
       author_email='johan.rydberg@gmail.com',
       url='http://www.edgeware.tv/',
-      packages=['covreport', 'twisted.plugins'],
+      packages=['txcovreport', 'twisted.plugins'],
       package_data={'twisted': ['plugins/figleaf_plugin.py']}
      )
 refresh_plugin_cache()
