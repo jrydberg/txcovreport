@@ -1,0 +1,4 @@
+include *.txt
+recursive-include twisted *.py
+recursive-include txconreport *.py
+
