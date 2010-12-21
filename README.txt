@@ -7,6 +7,8 @@ like Twisted do, you can get per-file coverage reports.
 
 Tested with twisted 10.0
 
+You need 'figleaf' for this to work.  Just install it with easy_install.
+
 
 See the transcript below for more information:
 
