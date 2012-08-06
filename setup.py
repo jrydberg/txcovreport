@@ -10,6 +10,6 @@ setup(name='covreport',
       author_email='johan.rydberg@gmail.com',
       url='http://www.edgeware.tv/',
       packages=['txcovreport', 'twisted.plugins'],
-      package_data={'twisted': ['plugins/figleaf_plugin.py'],},
+      package_data={'twisted': ['plugins/figleaf_plugin.py']},
       install_requires=['Twisted', 'figleaf'],
      )
